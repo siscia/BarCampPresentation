@@ -448,10 +448,14 @@ string-list
 ;;; 
 ;;; ## End
 ;;; 
-;;; We have barely scratch the surface, but hopefully I got you interested in Clojuer.
+;;; We have barely scratch the surface, but hopefully I got you interested in Clojure.
 ;;; 
 ;;; Thanks for listening, and if you have any question just let know :)
 ;;; 
+;; **
+
+;; **
+;;; You can contact me at simone@mweb.biz
 ;; **
 
 ;; @@
